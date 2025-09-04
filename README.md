@@ -1,5 +1,7 @@
 Zomato Database Analysis Report
+
 Purpose of the Report
+
 •	To analyse Zomato’s database using SQL queries and extract meaningful insights.
 •	To understand customer behaviour, cuisine preferences, restaurant performance, and sales dynamics.
 •	To demonstrate the role of SQL-based analytics in improving restaurant operations, customer engagement, and overall business strategy.
