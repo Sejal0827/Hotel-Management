@@ -102,5 +102,3 @@ The SQL-based analysis of Zomato’s database provided deep insights into consum
 - Urban restaurants perform better in terms of ratings and sales.  
 - Frequent diners play a key role in driving revenue.  
 - Seasonality and dynamic pricing significantly influence customer demand.  
-
-•	Seasonality and dynamic pricing significantly influence customer demand.
